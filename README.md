@@ -1,2 +1,2 @@
 # data-science-resources
-Files in this repositories are collected from various github repositories and other open sources. 
+Files in this repository are collected from various github repositories and other open sources. 
